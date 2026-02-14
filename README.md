@@ -12,7 +12,7 @@ Deployed a static HTML website using NGINX on AWS EC2 (Amazon Linux).
 - Successfully deployed website
 
 ## 🌐 Live URL
-http://16.171.12.226
+http://16.171.12.226/
 
 ## 📸 Screenshots
 (Add screenshots here)
